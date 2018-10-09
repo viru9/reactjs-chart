@@ -1,6 +1,6 @@
-// import './../node_modules/bootstrap/dist/css/bootstrap.css';
+import './../node_modules/bootstrap/dist/css/bootstrap.css';
 // import './../node_modules/sweetalert/dist/sweetalert.css';
-// import './css/css/main.css';
+import './css/css/main.css';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
